@@ -1,1 +1,0 @@
-une simple note faite sur Atom, mais j'aime vim comme toutes les bons codeurs de ce monde.

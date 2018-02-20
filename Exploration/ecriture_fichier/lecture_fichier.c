@@ -30,6 +30,15 @@
 *
 *; int remove(const char* fichierASupprimer);
 * comme rm -rf !atention!
+*
+*; int feof(FILE * f);
+* connaitre si on as atteint la fin du fichier.
+*
+*; int ferror(FILE * f);
+* erreur differente de fin de fichier.
+*
+*; void clearerr(FILE * f);
+* remet a 0 l'indicateur de fin de fichier.
 */
 
 int main(int argc, char *argv[])
